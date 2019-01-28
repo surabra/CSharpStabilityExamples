@@ -1,0 +1,9 @@
+C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\bin\Debug\ListViewItem.exe.config
+C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\bin\Debug\ListViewItem.exe
+C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\bin\Debug\ListViewItem.pdb
+C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\obj\Debug\ListViewItemName.Form1.resources
+C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\obj\Debug\ListViewItem.Properties.Resources.resources
+C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\obj\Debug\ListViewItem.csproj.GenerateResource.Cache
+C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\obj\Debug\ListViewItem.exe
+C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\obj\Debug\ListViewItem.pdb
+C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\obj\Debug\ListViewItem.csprojResolveAssemblyReference.cache

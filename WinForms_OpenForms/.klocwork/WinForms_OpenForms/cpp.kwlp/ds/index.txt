@@ -1,0 +1,1 @@
+c:\users\sa068411\documents\visual studio 2015\Projects\WinForms_OpenForms\WinForms_OpenForms\Form1.resx;c:\users\sa068411\documents\visual studio 2015\Projects\WinForms_OpenForms\.klocwork\WinForms_OpenForms\cpp.kwlp\ds\1\ihu0votm.b0j;1;0;False;31FB76E5D9BABE97A11FEA041081F96CE426107A;False

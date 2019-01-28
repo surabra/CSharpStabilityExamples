@@ -1,0 +1,8 @@
+C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\bin\Debug\DoubleParse.exe.config
+C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\bin\Debug\DoubleParse.exe
+C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\bin\Debug\DoubleParse.pdb
+C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.Form1.resources
+C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.Properties.Resources.resources
+C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.csproj.GenerateResource.Cache
+C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.exe
+C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.pdb

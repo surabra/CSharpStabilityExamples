@@ -1,0 +1,12 @@
+2019/01/28 10:48:14.646:Klocwork 12.3.0.819 for Visual Studio 14.0 Professional
+2019/01/28 10:48:14.647:Installation directory 'C:\Users\SA068411\AppData\Local\Microsoft\VisualStudio\14.0\Klocwork\AnalysisTools.12.3.0.819'
+2019/01/28 10:48:14.654:Solution configuration 'Debug'
+2019/01/28 10:48:14.655:Running analysis
+2019/01/28 10:48:14.659:Project 'NullVariable' configuration 'Debug|Any CPU'
+2019/01/28 10:48:14.662:Analysis log 'C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\.klocwork\StabilityExample\cs.kwlp\csanalysis.log'
+2019/01/28 10:48:14.663:Starting 'C:\Users\SA068411\AppData\Local\Microsoft\VisualStudio\14.0\Klocwork\AnalysisTools.12.3.0.819\exec\ix86-pc-win32\kwcs.exe "--license-host" FACWebFarmPrd01 "--license-port" 27000 "--xml" C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\.klocwork\StabilityExample\cs.kwlp\problems.xml "--build-spec" C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\.klocwork\StabilityExample\cs.kwlp\csbuildspec.txt "--lang" en "--error-config" C:\Users\SA068411\AppData\Local\Temp\Klocwork\ndo4zo4k.b1k\t2czpqvy.aeabuiltin_csharp_plugins.xml "--error-config" C:\Users\SA068411\AppData\Local\Temp\Klocwork\ndo4zo4k.b1k\zagbrd1s.4tguserprofile.pconf.xml'
+2019/01/28 10:48:20.354:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullVariable\Program.cs
+2019/01/28 10:48:20.355:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullVariable\Properties\AssemblyInfo.cs
+2019/01/28 10:48:20.502:Analysis finished with exit code 0
+2019/01/28 10:48:20.503:Parsing result
+2019/01/28 10:48:20.512:Analysis completed

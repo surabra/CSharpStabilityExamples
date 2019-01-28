@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>VisualBasic_Collection</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>acedccb8-8328-458d-b4f3-40eee0d100ae</ProjectGuid>
+  <FullPath>C:\SVN\C16440\CSharpStabilityExamples\VisualBasic_Collection\VisualBasic_Collection\VisualBasic_Collection.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\.sonarqube\out\11\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\SVN\C16440\CSharpStabilityExamples\VisualBasic_Collection\VisualBasic_Collection\bin\Debug\VisualBasic_Collection.exe.RoslynCA.json|C:\SVN\C16440\CSharpStabilityExamples\VisualBasic_Collection\VisualBasic_Collection\bin\Debug\VisualBasic_Collection.exe.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\.sonarqube\out\11</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

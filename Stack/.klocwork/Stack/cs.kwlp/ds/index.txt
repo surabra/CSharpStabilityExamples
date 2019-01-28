@@ -1,0 +1,6 @@
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Form1.cs;C:\SVN\C16440\CSharpStabilityExamples\Stack\.klocwork\Stack\cs.kwlp\ds\1\micrdtdz.tec;1;0;False;90EC529325CD1B1B2B10A455C4AFEF1476EB1EF7;False
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Form1.Designer.cs;C:\SVN\C16440\CSharpStabilityExamples\Stack\.klocwork\Stack\cs.kwlp\ds\2\ne21jcqe.vp3;2;0;False;E2B836CFE3C7B687864476C2F8B199A5760C55F6;False
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Program.cs;;3;0;False;0B808854F45B59A7DCA85FE0AFD7B3D2BF95C87D;False
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Properties\AssemblyInfo.cs;;4;0;False;85DA959DDE192F887F8D4AFA3C82376E88AA4A75;False
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Properties\Resources.Designer.cs;;5;0;False;C73A2B0AFD07C55F4E013429AE0B8B6B71CFCFED;False
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Properties\Settings.Designer.cs;;6;0;False;342F76AD8BAB56ED5D958A9353D47829B492FB3C;False

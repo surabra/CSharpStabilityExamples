@@ -1,0 +1,1 @@
+C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Form1.resx;C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\.klocwork\ListViewItem\cpp.kwlp\ds\1\zicb2vzp.lok;1;0;False;31FB76E5D9BABE97A11FEA041081F96CE426107A;False

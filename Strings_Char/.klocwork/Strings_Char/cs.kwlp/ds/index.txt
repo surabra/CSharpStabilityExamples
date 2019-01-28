@@ -1,0 +1,6 @@
+C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\Form1.cs;C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\.klocwork\Strings_Char\cs.kwlp\ds\1\mjhpqyje.0tb;1;0;False;4F1AA6D012D8C70E679F915FCCF29C846372247C;False
+C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\Form1.Designer.cs;;2;0;False;ACE0280E0F0B94CA26580E20446F5B184BEFA184;False
+C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\Program.cs;;3;0;False;6FFA9F1B18B9A70744ACE275C360BCFA9A71732B;False
+C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\Properties\AssemblyInfo.cs;;4;0;False;FCFC7331819993FBCAC763406826D06E7CD7D4E7;False
+C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\Properties\Resources.Designer.cs;;5;0;False;6F1E83EC9C3B883D15DC3AB544E5B85A5D3F813A;False
+C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\Properties\Settings.Designer.cs;;6;0;False;C0E8D5C40CF40B063EC66676E6B132F1D74B62CC;False

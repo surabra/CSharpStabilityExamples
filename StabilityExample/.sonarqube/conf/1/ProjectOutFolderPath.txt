@@ -1,0 +1,1 @@
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\.sonarqube\out\1
