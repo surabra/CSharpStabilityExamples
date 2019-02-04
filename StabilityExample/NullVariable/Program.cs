@@ -9,17 +9,20 @@ namespace NullVariable
     class Program
     {
         private static String sName = null;
+
         static void Main(string[] args)
         {
             MyClass myClass = new MyClass();
             myClass.Property.test();
-            myClass.GetProgram().test();
+            var mae = myClass.GetProgram().test();
 
         }
 
-        public void test()
+        public int test()
         {
             int i = 10;
+            return i;
+
         }
     }
 

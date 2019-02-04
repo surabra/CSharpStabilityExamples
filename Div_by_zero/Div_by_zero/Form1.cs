@@ -24,10 +24,21 @@ namespace Div_by_zero
 
             int result = num / denom;
 
-            //if(denom !=0)
-            //{
-            //    result = num / denom;
-            //}
+            
+        }
+
+        private double Divide(int denom, int numer)
+        {
+            if (denom != 0)
+            {
+                double result = (double) numer / (double) denom;
+                return result;
+            }
+            else
+            {
+                return 0.0;
+
+            }
         }
     }
 }

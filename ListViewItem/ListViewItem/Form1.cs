@@ -16,21 +16,14 @@ namespace ListViewItemName
         public Form1()
         {
             InitializeComponent();
+            listView1.Items.Add("string1");
+            listView1.Items.Add("string2");
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
-
-            string name = string.Empty;
-            String strObj = (String)comboBox1.SelectedItem;
-            string str = strObj.Substring(0, strObj.Length - 1);
-
-            //String strObj2 = (string)comboBox1.SelectedItem;
-            //if(!String.IsNullOrEmpty(strObj2))
-            //{
-            //    string strs2 = strObj2.Substring(0, strObj2.Length - 1);
-            //}
+            string subItem = listView1.Items[5].ToString();
 
 
         }
@@ -38,6 +31,18 @@ namespace ListViewItemName
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private string GetListViewItem(int index)
+        {
+            if (index > 0 && index < listView1.Items.Count)
+            {
+                return listView1.Items[index].ToString();
+            }
+            else
+            {
+                return string.Empty;
+            }
         }
     }
 

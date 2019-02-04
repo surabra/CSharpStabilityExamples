@@ -19,7 +19,7 @@ namespace ComboBox_SelectItem
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string selectedItem = (string)comboBox1.SelectedItem;
+            string selectedItem = comboBox1.SelectedItem as string;
 
             int length = selectedItem.Length;
 
@@ -30,7 +30,19 @@ namespace ComboBox_SelectItem
             {
                 int len = selectedItem.Length;
             }
-            //
+            
+        }
+
+        private string GetSelectedItem()
+        {
+            if (comboBox1.SelectedItem != null)
+            {
+                return (string) comboBox1.SelectedItem;
+            }
+            else
+            {
+                return string.Empty;
+            }
         }
     }
 }

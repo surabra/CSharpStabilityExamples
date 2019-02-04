@@ -21,8 +21,8 @@ namespace StatNullCheck
         {
             MessageBox.Show(SomeClass.AnotherInstance.Name);
 
-            //AnotherClass another = new AnotherClass();
-            //SomeClass.AnotherInstance = another;
+            AnotherClass another = new AnotherClass();
+            SomeClass.AnotherInstance = another;
 
         }
     }

@@ -22,7 +22,13 @@ namespace Strings_Char
         {
             char sChar = Strings.Chr(300);
 
-            //char convertChar = Convert.ToChar(300);
+            
+        }
+
+        private char CorrectCode(int charCode)
+        {
+            char convertChar = Convert.ToChar(charCode);
+            return convertChar;
         }
     }
 }

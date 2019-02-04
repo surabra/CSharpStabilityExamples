@@ -21,14 +21,15 @@ namespace DoubleParse
         {
             double value = double.Parse(textBox1.Text);
 
-            //double value = 0.0;
-
-            //if(double.TryParse(textBox1.Text, out value))
-            //{
-            //    MessageBox.Show(value.ToString());
-            //}
-
             MessageBox.Show(value.ToString());
+        }
+
+        private double CorrectParse(string dParse)
+        {
+            double dRes = 0.0;
+
+            Double.TryParse(dParse, out dRes);
+            return dRes;
         }
     }
 }

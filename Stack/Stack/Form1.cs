@@ -27,8 +27,7 @@ namespace Stack
         {
             var any = stackCollection.Pop();
 
-            
-            if(stackCollection.Any())
+            if (stackCollection.Any())
             {
                 var any2 = stackCollection.Pop();
             }

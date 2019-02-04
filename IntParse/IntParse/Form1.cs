@@ -21,16 +21,23 @@ namespace IntParse
         {
             int value = int.Parse(textBox1.Text);
 
-            //int value = 0;
-            //if( int.TryParse(textBox1.Text, out value))
-            //{
-            //    MessageBox.Show(value.ToString());
-            //}
-            //else
-            //{
-            //    value = 0;
-            //}
            
+           
+        }
+
+        private int CorrectIntParse(string parse)
+        {
+            int value = 0;
+            if (int.TryParse(textBox1.Text, out value))
+            {
+                MessageBox.Show(value.ToString());
+            }
+            else
+            {
+                value = 0;
+            }
+
+            return value;
         }
     }
 }

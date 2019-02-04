@@ -13,9 +13,7 @@ namespace VisualBasic_Collection
         {
             int index = 0;
             Collection collection = new Collection();
-
             collection.Add("Hello");
-
             // Problem code collection accessed without checking for > 0
               Console.WriteLine(collection[index]);
 
@@ -25,8 +23,6 @@ namespace VisualBasic_Collection
             {
                 Console.WriteLine(collection[index]);
             }
-
-            
         }
     }
 }

@@ -16,21 +16,17 @@ namespace StabilityExample
         {
             InitializeComponent();
         }
-        // 1-000000141571
-        // ORDPLANDEV-17563
-        // 595844
+        
         private void button1_Click(object sender, EventArgs e)
         {
             string sName = $"{sender.ToString()} {e.ToString()}";
-
-            int iPos = sName.IndexOf("sender");
-
+            int iPos = sName.IndexOf("sender", StringComparison.Ordinal);
             string str = sName.Substring(iPos, 3);
 
-
+            correctCode();
         }
 
-        private void corrrectCode()
+        private void correctCode()
         {
             string sName = "Some string";
             int iPos = sName.IndexOf("anything");
@@ -38,7 +34,7 @@ namespace StabilityExample
             if (iPos != -1)
             {
                 string str = sName.Substring(iPos, 3);
-
+                Console.WriteLine(str);
             }
         }
 

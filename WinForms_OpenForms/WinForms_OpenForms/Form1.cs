@@ -19,11 +19,10 @@ namespace WinForms_OpenForms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form1 frm = new WinForms_OpenForms.Form1();
-
-            frm.Show(this);
-            
-            
+            using (Form1 frm = new WinForms_OpenForms.Form1())
+            {
+                frm.Show(this);
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
