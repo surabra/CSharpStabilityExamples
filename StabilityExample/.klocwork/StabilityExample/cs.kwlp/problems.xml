@@ -2,10 +2,10 @@
 <errorList xmlns="http://www.klocwork.com/inForce/report/1.0">
 <problem>
  <file>C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullVariable\Program.cs</file>
- <line>16</line>
- <column>13</column>
+ <line>17</line>
+ <column>23</column>
  <code>CS.NRE.FUNC.MUST</code>
- <message>Reference &apos;myClass.GetProgram()&apos; returned from call to function &apos;GetProgram&apos; at line 16 may be null and will be dereferenced at line 16</message>
+ <message>Reference &apos;myClass.GetProgram()&apos; returned from call to function &apos;GetProgram&apos; at line 17 may be null and will be dereferenced at line 17</message>
  <anchor>-1557243473</anchor>
  <method>Main</method>
  <severity>Error</severity>
@@ -16,100 +16,38 @@
  <state>New</state>
  <trace>
   <traceBlock id="0" method="Main" file="C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullVariable\Program.cs">
-   <traceLine line="16" refId="1" text="&apos;myClass.GetProgram()&apos; is retrieved from the &apos;GetProgram&apos; function." type="E"/>
-   <traceLine line="16" text="&apos;myClass.GetProgram()&apos; is explicitly dereferenced." type="E"/>
+   <traceLine line="17" refId="1" text="&apos;myClass.GetProgram()&apos; is retrieved from the &apos;GetProgram&apos; function." type="E"/>
+   <traceLine line="17" text="&apos;myClass.GetProgram()&apos; is explicitly dereferenced." type="E"/>
   </traceBlock>
   <traceBlock id="1" method="GetProgram" file="C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullVariable\Program.cs">
-   <traceLine line="38" text="null is explicitly returned by &apos;GetProgram&apos;." type="E"/>
+   <traceLine line="41" text="null is explicitly returned by &apos;GetProgram&apos;." type="E"/>
   </traceBlock>
  </trace>
 </problem>
 <problem>
  <file>C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\Form1.cs</file>
- <line>22</line>
- <column>20</column>
- <code>CS.UNCHECKED.CAST</code>
- <message>An invalid cast. &apos;Object&apos; cannot be cast to &apos;String&apos;.</message>
- <anchor>-1469598946</anchor>
+ <line>24</line>
+ <column>26</column>
+ <code>CS.NRE.GEN.MUST</code>
+ <message>Null reference &apos;selectedItem&apos; that comes from line 22 will be dereferenced at line 24</message>
+ <anchor>844804084</anchor>
  <method>button1_Click</method>
- <severity>Error</severity>
- <severitylevel>2</severitylevel>
+ <severity>Critical</severity>
+ <severitylevel>1</severitylevel>
  <displayAs>Error</displayAs>
  <category>CSharp</category>
  <citingStatus>Analyze</citingStatus>
  <state>New</state>
  <trace>
   <traceBlock id="0" method="button1_Click" file="C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\Form1.cs">
-   <traceLine line="22" text="Object is cast to String." type="E"/>
-  </traceBlock>
- </trace>
-</problem>
-<problem>
- <file>C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Form1.cs</file>
- <line>26</line>
- <column>20</column>
- <code>CS.UNCHECKED.CAST</code>
- <message>An invalid cast. &apos;Object&apos; cannot be cast to &apos;String&apos;.</message>
- <anchor>-1469598946</anchor>
- <method>button1_Click</method>
- <severity>Error</severity>
- <severitylevel>2</severitylevel>
- <displayAs>Error</displayAs>
- <category>CSharp</category>
- <citingStatus>Analyze</citingStatus>
- <state>New</state>
- <trace>
-  <traceBlock id="0" method="button1_Click" file="C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Form1.cs">
-   <traceLine line="26" text="Object is cast to String." type="E"/>
+   <traceLine line="22" text="&apos;selectedItem&apos; has been assigned a null value by function #as." type="E"/>
+   <traceLine line="24" text="&apos;selectedItem&apos; is explicitly dereferenced." type="E"/>
   </traceBlock>
  </trace>
 </problem>
 <problem>
  <file>C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Form1.cs</file>
- <line>27</line>
- <column>9</column>
- <code>CS.RLK</code>
- <message>Object referenced by &apos;frm&apos; is lost, but related resources are not disposed</message>
- <anchor>101665</anchor>
- <method>button1_Click</method>
- <severity>Error</severity>
- <severitylevel>2</severitylevel>
- <displayAs>Error</displayAs>
- <category>CSharp</category>
- <citingStatus>Analyze</citingStatus>
- <state>New</state>
- <trace>
-  <traceBlock id="0" method="button1_Click" file="C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Form1.cs">
-   <traceLine line="22" text="Resource-critical object is allocated and referenced by &apos;frm&apos;" type="E"/>
-   <traceLine line="27" text="&apos;frm&apos; is out of scope. Referenced object is lost, but related resources are not disposed" type="E"/>
-  </traceBlock>
- </trace>
-</problem>
-<problem>
- <file>C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Form1.cs</file>
- <line>27</line>
- <column>9</column>
- <code>CS.RLK</code>
- <message>Object referenced by &apos;frm&apos; is lost, but related resources are not disposed</message>
- <anchor>101665</anchor>
- <method>button1_Click</method>
- <severity>Error</severity>
- <severitylevel>2</severitylevel>
- <displayAs>Error</displayAs>
- <category>CSharp</category>
- <citingStatus>Analyze</citingStatus>
- <state>New</state>
- <trace>
-  <traceBlock id="0" method="button1_Click" file="C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Form1.cs">
-   <traceLine line="22" text="Resource-critical object is allocated and referenced by &apos;frm&apos;" type="E"/>
-   <traceLine line="24" text="System.Windows.Forms.Form.Show throws System.InvalidOperationException" type="E"/>
-   <traceLine line="27" text="&apos;frm&apos; is out of scope. Referenced object is lost, but related resources are not disposed" type="E"/>
-  </traceBlock>
- </trace>
-</problem>
-<problem>
- <file>C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Form1.cs</file>
- <line>31</line>
+ <line>30</line>
  <column>13</column>
  <code>CS.UNCHECKED.LOOPITER.CAST</code>
  <message>An invalid cast. &apos;Object&apos; cannot be cast to &apos;Form1&apos;.</message>
@@ -123,14 +61,14 @@
  <state>New</state>
  <trace>
   <traceBlock id="0" method="button2_Click" file="C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Form1.cs">
-   <traceLine line="31" text="Object is cast to Form1." type="E"/>
+   <traceLine line="30" text="Object is cast to Form1." type="E"/>
    <traceLine line="13" text="Form1 is declared." type="E"/>
   </traceBlock>
  </trace>
 </problem>
 <problem>
  <file>C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Form1.cs</file>
- <line>37</line>
+ <line>36</line>
  <column>13</column>
  <code>CS.UNCHECKED.LOOPITER.CAST</code>
  <message>An invalid cast. &apos;Object&apos; cannot be cast to &apos;Form&apos;.</message>
@@ -144,7 +82,7 @@
  <state>New</state>
  <trace>
   <traceBlock id="0" method="button2_Click" file="C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Form1.cs">
-   <traceLine line="37" text="Object is cast to Form." type="E"/>
+   <traceLine line="36" text="Object is cast to Form." type="E"/>
   </traceBlock>
  </trace>
 </problem>

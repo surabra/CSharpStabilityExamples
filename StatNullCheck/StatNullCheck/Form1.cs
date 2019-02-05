@@ -20,10 +20,13 @@ namespace StatNullCheck
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show(SomeClass.AnotherInstance.Name);
+        }
 
+        private void SetAnother()
+        {
             AnotherClass another = new AnotherClass();
             SomeClass.AnotherInstance = another;
-
+            SomeClass.AnotherInstance.Name = "Another";
         }
     }
 }
