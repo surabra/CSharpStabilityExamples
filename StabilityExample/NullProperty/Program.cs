@@ -27,11 +27,11 @@ namespace NullProperty
     }
     class NullProperty
     {
-        private static Some realNumner = null;
+        private static Some _some = null;
 
         public static Some getSome()
         {
-            return realNumner;
+            return _some;
         }
     }
 }

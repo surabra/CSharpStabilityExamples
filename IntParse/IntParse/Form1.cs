@@ -21,23 +21,24 @@ namespace IntParse
         {
             int value = int.Parse(textBox1.Text);
 
-           
-           
+            MessageBox.Show(value.ToString());
+
         }
 
         private int CorrectIntParse(string parse)
         {
             int value = 0;
-            if (int.TryParse(textBox1.Text, out value))
-            {
-                MessageBox.Show(value.ToString());
-            }
-            else
-            {
-                value = 0;
-            }
+
+            int.TryParse(textBox1.Text, out value);
 
             return value;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int ret = CorrectIntParse(textBox1.Text);
+
+            MessageBox.Show(ret.ToString());
         }
     }
 }

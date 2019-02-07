@@ -6,3 +6,4 @@ C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\Div_by_zero\obj\Debug\Div_by_z
 C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\Div_by_zero\obj\Debug\Div_by_zero.exe
 C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\Div_by_zero\obj\Debug\Div_by_zero.pdb
 C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\Div_by_zero\obj\Debug\Div_by_zero.csprojResolveAssemblyReference.cache
+C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\Div_by_zero\obj\Debug\Div_by_zero.Form1.resources

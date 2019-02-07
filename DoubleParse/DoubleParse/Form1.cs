@@ -31,5 +31,12 @@ namespace DoubleParse
             Double.TryParse(dParse, out dRes);
             return dRes;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            double dVal = CorrectParse(textBox1.Text);
+
+            MessageBox.Show(dVal.ToString());
+        }
     }
 }

@@ -14,12 +14,12 @@ namespace Stack
     public partial class Form1 : Form
     {
         System.Collections.Generic.Stack<int> stackCollection;
-        System.Collections.Stack stack = new System.Collections.Stack();
+        private int _last;
 
         public Form1()
         {
             stackCollection = new System.Collections.Generic.Stack<int>();
-            
+            _last = 1;
             InitializeComponent();
         }
 
@@ -27,9 +27,28 @@ namespace Stack
         {
             var any = stackCollection.Pop();
 
+            MessageBox.Show(any.ToString());
+        }
+
+        private void FillStack_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < 2; i++)
+            {
+                stackCollection.Push(_last++);
+            }
+        }
+
+        private void ProperAccess_Click(object sender, EventArgs e)
+        {
             if (stackCollection.Any())
             {
-                var any2 = stackCollection.Pop();
+                var ret = stackCollection.Pop();
+                MessageBox.Show(ret.ToString());
+
+            }
+            else
+            {
+                MessageBox.Show("Collection is empty");
             }
         }
     }

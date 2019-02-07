@@ -6,3 +6,4 @@ C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\obj\Debug\Stack.Properties.Res
 C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\obj\Debug\Stack.csproj.GenerateResource.Cache
 C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\obj\Debug\Stack.exe
 C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\obj\Debug\Stack.pdb
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache

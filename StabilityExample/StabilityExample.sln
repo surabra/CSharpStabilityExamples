@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StabilityExample", "StabilityExample\StabilityExample.csproj", "{F0EC15B5-EC44-400D-817D-DEC7B9BFD016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Out_Of_Bonds", "..\Array_Out_Of_Bonds\Array_Out_Of_Bonds\Array_Out_Of_Bonds.csproj", "{3B45DCCF-DB63-4323-AB5F-C7CE842EDAE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Out_Of_Bounds", "..\Array_Out_Of_Bonds\Array_Out_Of_Bonds\Array_Out_Of_Bounds.csproj", "{3B45DCCF-DB63-4323-AB5F-C7CE842EDAE5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBox_SelectItem", "..\ComboBox_SelectItem\ComboBox_SelectItem\ComboBox_SelectItem.csproj", "{E0FBA2EA-8CE8-403D-935A-60A85396B235}"
 EndProject

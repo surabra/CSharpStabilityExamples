@@ -20,15 +20,24 @@ namespace Strings_Char
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+
             char sChar = Strings.Chr(300);
 
-            
+            MessageBox.Show(sChar.ToString());
         }
 
         private char CorrectCode(int charCode)
         {
             char convertChar = Convert.ToChar(charCode);
             return convertChar;
+        }
+
+        private void ProperAccess_Click(object sender, EventArgs e)
+        {
+            char correct = CorrectCode(300);
+
+            MessageBox.Show(correct.ToString());
         }
     }
 }

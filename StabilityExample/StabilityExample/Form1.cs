@@ -19,41 +19,33 @@ namespace StabilityExample
         
         private void button1_Click(object sender, EventArgs e)
         {
-            string sName = $"{sender.ToString()} {e.ToString()}";
-            int iPos = sName.IndexOf("sender", StringComparison.Ordinal);
-            string str = sName.Substring(iPos, 3);
+            string sName = textBox1.Text;
+            int iPos = sName.IndexOf(".exe", StringComparison.Ordinal);
+            string appName = sName.Substring(0, iPos);
 
-            correctCode();
+            MessageBox.Show(appName);
         }
 
-        private void correctCode()
+        
+        private void button2_Click(object sender, EventArgs e)
         {
-            string sName = "Some string";
-            int iPos = sName.IndexOf("anything");
-
-            if (iPos != -1)
+            string sName = textBox1.Text;
+            if (String.IsNullOrEmpty(sName))
             {
-                string str = sName.Substring(iPos, 3);
-                Console.WriteLine(str);
+                MessageBox.Show($"Please Enter a Valid Exe Name");
+                return;
             }
-        }
 
-        private void correctCode2()
-        {
-            string sName = "Some string";
-            int iPos = sName.IndexOf("anything");
-            try
+            int iPos = sName.IndexOf(".exe", StringComparison.Ordinal);
+            if (iPos > 0)
             {
-                string str = sName.Substring(iPos, 3);
+                string appName = sName.Substring(0, iPos);
+                MessageBox.Show(appName);
             }
-            catch (Exception e)
+            else
             {
-                Console.WriteLine(e);
-                
+                MessageBox.Show(sName);
             }
-             
-
-            
         }
     }
 }

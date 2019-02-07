@@ -12,9 +12,16 @@ namespace ComboBox_SelectItem
 {
     public partial class Form1 : Form
     {
+        private static Array _strAaArrays = new String[] {"one", "two", "three", "four"};
+
         public Form1()
         {
             InitializeComponent();
+            foreach (var strAa in _strAaArrays)
+            {
+                comboBox1.Items.Add(strAa);
+
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -23,14 +30,8 @@ namespace ComboBox_SelectItem
 
             int length = selectedItem.Length;
 
+            MessageBox.Show($"{selectedItem} with Length {length}");
 
-            // Fix
-
-            if(!string.IsNullOrEmpty(selectedItem))
-            {
-                int len = selectedItem.Length;
-            }
-            
         }
 
         private string GetSelectedItem()
@@ -43,6 +44,13 @@ namespace ComboBox_SelectItem
             {
                 return string.Empty;
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            var selectItem = GetSelectedItem();
+            MessageBox.Show($"{selectItem} with Length {selectItem.Length}");
+
         }
     }
 }

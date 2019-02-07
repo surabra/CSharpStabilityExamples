@@ -6,3 +6,4 @@ C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\String
 C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.csproj.GenerateResource.Cache
 C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.exe
 C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.pdb
+C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.csprojResolveAssemblyReference.cache

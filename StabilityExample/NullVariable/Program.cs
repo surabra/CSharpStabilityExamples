@@ -13,7 +13,7 @@ namespace NullVariable
         static void Main(string[] args)
         {
             MyClass myClass = new MyClass();
-            myClass.Property.test();
+            var check =myClass.Property.test();
             var mae = myClass.GetProgram().test();
 
         }

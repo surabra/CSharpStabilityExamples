@@ -19,12 +19,17 @@ namespace Div_by_zero
 
         private void button1_Click(object sender, EventArgs e)
         {
+            int numer = 0;
             int denom = 0;
-            int num = 5;
 
-            int result = num / denom;
+            int.TryParse(textNumerator.Text, out numer);
+            int.TryParse(textDenom.Text, out denom);
 
-            
+            double division = (double) numer / (double) denom;
+
+            MessageBox.Show($"Result is {division}");
+
+
         }
 
         private double Divide(int denom, int numer)
@@ -38,6 +43,26 @@ namespace Div_by_zero
             {
                 return 0.0;
 
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int numer = 0;
+            int denom = 0;
+
+            int.TryParse(textNumerator.Text, out numer);
+            int.TryParse(textDenom.Text, out denom);
+
+            if (denom != 0)
+            {
+                double division = (double) numer / (double) denom;
+
+                MessageBox.Show($"Result is {division}");
+            }
+            else
+            {
+                MessageBox.Show($"Impossible. Denominator is {textDenom.Text}");
             }
         }
     }

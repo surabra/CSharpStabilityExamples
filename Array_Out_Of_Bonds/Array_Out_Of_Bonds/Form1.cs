@@ -18,38 +18,39 @@ namespace Array_Out_Of_Bonds
         public Form1()
         {
             InitializeComponent();
+
             strings = new string[2];
             strings[0] = "A";
             strings[1] = "B";
 
             list = new ArrayList();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-           
 
             list.Add("one");
             list.Add("two");
 
-            MessageBox.Show(AccessList(2));
+            for (int i = 0; i < 10; i++)
+            {
+                comboBox1.Items.Add(i.ToString());
+            }
 
-            string listStr = AccessList2(2);
-           
+            comboBox1.SelectedIndex = 0;
+        }
 
-          
-            string access = AccessArray(2);
-
-            string access2 = AccessArray2(2);
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int index = 0;
+            int.TryParse(comboBox1.SelectedItem.ToString(), out index);
+            MessageBox.Show(AccessList(index));
         }
 
         private string AccessList(int index)
         {
+           
             return (string)list[index];
         }
         private string AccessList2(int index)
         {
-            if (index > 0 && index < list.Count)
+            if (index >= 0 && index < list.Count)
             {
                 return (string) list[index];
             }
@@ -63,8 +64,6 @@ namespace Array_Out_Of_Bonds
         private string  AccessArray(int index)
         {
             return strings[index];
-
-           
         }
 
         private string AccessArray2(int index)
@@ -77,6 +76,20 @@ namespace Array_Out_Of_Bonds
             {
                 return string.Empty;
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int index = 0;
+            int.TryParse(comboBox1.SelectedItem.ToString(), out index);
+
+            var val = AccessArray2(index);
+
+            MessageBox.Show(val.ToString());
+
+            val = AccessList2(index);
+            MessageBox.Show(val.ToString());
+            
         }
     }
 }
