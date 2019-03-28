@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace NullProperty
 {
@@ -10,7 +6,7 @@ namespace NullProperty
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(NullProperty.getSome().Real);
+            Console.WriteLine(NullProperty.getSome().Real); // Issue NullReferenceException
         }
     }
 

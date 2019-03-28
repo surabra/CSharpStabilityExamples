@@ -1,11 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WinForms_OpenForms
@@ -29,7 +23,7 @@ namespace WinForms_OpenForms
         {
             // If forms are opened this will crash with InvalidOperationException
 
-            foreach (Form1 frm in System.Windows.Forms.Application.OpenForms)
+            foreach (Form1 frm in System.Windows.Forms.Application.OpenForms) // Issue InvalidOperationException
             {
                 frm.Close();
             }

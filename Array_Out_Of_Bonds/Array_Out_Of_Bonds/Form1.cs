@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Collections;
 
@@ -19,14 +12,12 @@ namespace Array_Out_Of_Bonds
         {
             InitializeComponent();
 
-            strings = new string[2];
-            strings[0] = "A";
-            strings[1] = "B";
+            strings = new string[2] {"0", "1"};
 
-            list = new ArrayList();
 
-            list.Add("one");
-            list.Add("two");
+            list = new ArrayList() {"one", "two"};
+
+            
 
             for (int i = 0; i < 10; i++)
             {
@@ -46,7 +37,7 @@ namespace Array_Out_Of_Bonds
         private string AccessList(int index)
         {
            
-            return (string)list[index];
+            return (string)list[index]; // Issue Invalid Array / Collection Access
         }
         private string AccessList2(int index)
         {
@@ -63,7 +54,7 @@ namespace Array_Out_Of_Bonds
 
         private string  AccessArray(int index)
         {
-            return strings[index];
+            return strings[index];            // Issue Invalid Array/Collection Access
         }
 
         private string AccessArray2(int index)
@@ -83,8 +74,7 @@ namespace Array_Out_Of_Bonds
             int index = 0;
             int.TryParse(comboBox1.SelectedItem.ToString(), out index);
 
-            var val = AccessArray2(index);
-
+            var val = AccessArray2(index);   
             MessageBox.Show(val.ToString());
 
             val = AccessList2(index);

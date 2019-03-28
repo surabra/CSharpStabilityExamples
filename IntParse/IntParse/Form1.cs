@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace IntParse
@@ -19,7 +12,7 @@ namespace IntParse
 
         private void int_parse_Click(object sender, EventArgs e)
         {
-            int value = int.Parse(textBox1.Text);
+            int value = int.Parse(textBox1.Text);  // Issue int.Parse
 
             MessageBox.Show(value.ToString());
 

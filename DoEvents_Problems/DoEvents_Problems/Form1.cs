@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -29,7 +23,7 @@ namespace DoEvents_Problems
                 Application.DoEvents();  // <-- Calling DoEvents processes other events that may occur
                 textBox1.Text = $"Updating Listbox with {i}";
 
-                System.Windows.Forms.Application.DoEvents();
+                System.Windows.Forms.Application.DoEvents(); // Issue DoEvents
 
                 
 

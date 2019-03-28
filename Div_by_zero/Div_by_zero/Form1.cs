@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Div_by_zero
@@ -19,24 +12,31 @@ namespace Div_by_zero
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int numer = 0;
-            int denom = 0;
+            int numer = 10;
+            int denom = 10;
 
-            int.TryParse(textNumerator.Text, out numer);
+            int.TryParse(textNumerator.Text, out numer); // 
             int.TryParse(textDenom.Text, out denom);
 
-            double division = (double) numer / (double) denom;
+            double division = (double) numer / (double) denom; // Issue DivByZero
 
             MessageBox.Show($"Result is {division}");
 
 
         }
 
+        private int GetSomeNumber(int seed)
+        {
+            Random rand = new Random(seed);
+
+            return rand.Next(0, 10); // can return from 0 to 10
+        }
+
         private double Divide(int denom, int numer)
         {
             if (denom != 0)
             {
-                double result = (double) numer / (double) denom;
+                double result = (double) numer / (double) denom; // 
                 return result;
             }
             else
@@ -51,7 +51,7 @@ namespace Div_by_zero
             int numer = 0;
             int denom = 0;
 
-            int.TryParse(textNumerator.Text, out numer);
+            int.TryParse(textNumerator.Text, out numer); 
             int.TryParse(textDenom.Text, out denom);
 
             if (denom != 0)
@@ -64,6 +64,15 @@ namespace Div_by_zero
             {
                 MessageBox.Show($"Impossible. Denominator is {textDenom.Text}");
             }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+           int denom= GetSomeNumber(20);
+
+           int iVar = 100 / denom; // Issue DivByZero
+
+            MessageBox.Show(iVar.ToString());
         }
     }
 }

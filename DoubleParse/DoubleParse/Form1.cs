@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace DoubleParse
@@ -19,7 +12,7 @@ namespace DoubleParse
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double value = double.Parse(textBox1.Text);
+            double value = double.Parse(textBox1.Text);        // Issue Double.Parse
 
             MessageBox.Show(value.ToString());
         }

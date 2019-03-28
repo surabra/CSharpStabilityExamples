@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.VisualBasic;
 
 namespace VisualBasic_Collection
@@ -16,7 +12,7 @@ namespace VisualBasic_Collection
             
             collection.Add("Hello");
             // Problem code collection accessed without checking for > 0 and <= collection.Count
-            Console.WriteLine(collection[index]);
+            Console.WriteLine(collection[index]); // Issue Array/Collection Access
 
             // Fix code
 

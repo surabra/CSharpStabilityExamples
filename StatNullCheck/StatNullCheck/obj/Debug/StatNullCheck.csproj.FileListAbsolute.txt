@@ -1,8 +1,0 @@
-C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\bin\Debug\StatNullCheck.exe.config
-C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\bin\Debug\StatNullCheck.exe
-C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\bin\Debug\StatNullCheck.pdb
-C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\obj\Debug\StatNullCheck.Form1.resources
-C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\obj\Debug\StatNullCheck.Properties.Resources.resources
-C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\obj\Debug\StatNullCheck.csproj.GenerateResource.Cache
-C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\obj\Debug\StatNullCheck.exe
-C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\obj\Debug\StatNullCheck.pdb

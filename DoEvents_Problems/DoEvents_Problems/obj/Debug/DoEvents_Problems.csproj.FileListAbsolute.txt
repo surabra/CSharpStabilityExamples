@@ -1,9 +1,1 @@
 C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\bin\Debug\DoEvents_Problems.exe.config
-C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\bin\Debug\DoEvents_Problems.exe
-C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\bin\Debug\DoEvents_Problems.pdb
-C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\obj\Debug\DoEvents_Problems.Form1.resources
-C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\obj\Debug\DoEvents_Problems.Properties.Resources.resources
-C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\obj\Debug\DoEvents_Problems.csproj.GenerateResource.Cache
-C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\obj\Debug\DoEvents_Problems.exe
-C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\obj\Debug\DoEvents_Problems.pdb
-C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\obj\Debug\DoEvents_Problems.csprojResolveAssemblyReference.cache

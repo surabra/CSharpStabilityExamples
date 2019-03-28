@@ -1,13 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 using System.Windows.Forms;
-using Microsoft.VisualBasic;
+
 
 namespace ListViewItemName
 {
@@ -29,7 +23,7 @@ namespace ListViewItemName
         private void button1_Click(object sender, EventArgs e)
         {
             int index = comboBox1.SelectedIndex;
-            string subItem = listView1.Items[index].Text;
+            string subItem = listView1.Items[index].Text;   // // Issue Invalid Array /Collection Access
             MessageBox.Show(subItem);
             
 

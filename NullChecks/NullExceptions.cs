@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace NullChecks
@@ -27,11 +20,11 @@ namespace NullChecks
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Blocks block = _factory.CreateBlock(int.Parse(comboBox1.SelectedItem.ToString()));
+            Blocks block = _factory.CreateBlock(int.Parse(comboBox1.SelectedItem.ToString())); // Issue NulReferenceException
 
             _frmParent.BlocksList.Add(block);
 
-            textBox1.Text = block.Score.ToString();
+            textBox1.Text = block.Score.ToString(); // Issue NullReferenceException
         }
     }
 }

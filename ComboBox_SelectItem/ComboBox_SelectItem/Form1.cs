@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ComboBox_SelectItem
@@ -28,7 +21,7 @@ namespace ComboBox_SelectItem
         {
             string selectedItem = comboBox1.SelectedItem as string;
 
-            int length = selectedItem.Length;
+            int length = selectedItem.Length; // Issue NullReferenceException
 
             MessageBox.Show($"{selectedItem} with Length {length}");
 

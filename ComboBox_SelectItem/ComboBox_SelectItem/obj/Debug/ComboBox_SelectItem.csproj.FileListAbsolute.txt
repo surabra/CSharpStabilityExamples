@@ -1,9 +1,0 @@
-C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\bin\Debug\ComboBox_SelectItem.exe.config
-C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\bin\Debug\ComboBox_SelectItem.exe
-C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\bin\Debug\ComboBox_SelectItem.pdb
-C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\obj\Debug\ComboBox_SelectItem.Form1.resources
-C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\obj\Debug\ComboBox_SelectItem.Properties.Resources.resources
-C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\obj\Debug\ComboBox_SelectItem.csproj.GenerateResource.Cache
-C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\obj\Debug\ComboBox_SelectItem.exe
-C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\obj\Debug\ComboBox_SelectItem.pdb
-C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\obj\Debug\ComboBox_SelectItem.csprojResolveAssemblyReference.cache

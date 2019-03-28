@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace NullVariable
 {
@@ -13,8 +9,8 @@ namespace NullVariable
         static void Main(string[] args)
         {
             MyClass myClass = new MyClass();
-            var check =myClass.Property.test();
-            var mae = myClass.GetProgram().test();
+            var check =myClass.Property.test(); // Issue NullReferenceException
+            var mae = myClass.GetProgram().test(); // Issue NullReferenceException
 
         }
 
