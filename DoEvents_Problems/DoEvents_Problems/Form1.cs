@@ -20,7 +20,7 @@ namespace DoEvents_Problems
             {
                 listBox1.Items.Add(i.ToString());
 
-                Application.DoEvents();  // <-- Calling DoEvents processes other events that may occur
+                Application.DoEvents();  // // Issue DoEvents <-- Calling DoEvents processes other events that may occur
                 textBox1.Text = $"Updating Listbox with {i}";
 
                 System.Windows.Forms.Application.DoEvents(); // Issue DoEvents

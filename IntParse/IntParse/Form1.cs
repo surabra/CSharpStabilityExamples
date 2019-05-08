@@ -22,7 +22,7 @@ namespace IntParse
         {
             int value = 0;
 
-            int.TryParse(textBox1.Text, out value);
+            int.TryParse(parse, out value);
 
             return value;
         }

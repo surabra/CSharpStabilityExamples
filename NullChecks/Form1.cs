@@ -8,7 +8,17 @@ namespace NullChecks
     {
         private static GhAppForm _ghApp = null;
         private  DateForm _dtForm = null;
-        public List<Blocks> BlocksList { get; private set; } 
+        public List<Blocks> BlocksList { get; private set; }
+
+        public static GhAppForm GetGhAppForm()
+        {
+            if (_ghApp == null)
+            {
+                _ghApp = new GhAppForm();
+            }
+
+            return _ghApp;
+        }
         public Form1()
         {
             InitializeComponent();
@@ -22,7 +32,7 @@ namespace NullChecks
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var dialogResult = _dtForm.ShowDialog();
+            _dtForm.ShowDialog();
 
             _dtForm.Dispose();
            
@@ -39,13 +49,10 @@ namespace NullChecks
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (_ghApp == null )
-            {
-                _ghApp = new GhAppForm();
-            }
 
-            _ghApp.Show();
-            _ghApp.BringToFront();
+            var ghApp = GetGhAppForm();
+            ghApp.Show();
+            ghApp.BringToFront();
         }
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)

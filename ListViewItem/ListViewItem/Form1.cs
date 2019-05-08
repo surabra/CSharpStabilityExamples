@@ -29,10 +29,7 @@ namespace ListViewItemName
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
+      
 
         private string GetListViewItem(int index)
         {

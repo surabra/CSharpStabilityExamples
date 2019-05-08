@@ -1,106 +1,20 @@
-2019/02/04 14:29:04.618:Klocwork 12.3.0.819 for Visual Studio 14.0 Professional
-2019/02/04 14:29:04.619:Installation directory 'C:\Users\SA068411\AppData\Local\Microsoft\VisualStudio\14.0\Klocwork\AnalysisTools.12.3.0.819'
-2019/02/04 14:29:04.634:Solution configuration 'Debug'
-2019/02/04 14:29:04.635:Running analysis
-2019/02/04 14:29:04.707:Project 'StabilityExample' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.710:Project 'Array_Out_Of_Bonds' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.711:Project 'ComboBox_SelectItem' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.712:Project 'Div_by_zero' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.713:Project 'DoEvents_Problems' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.724:Project 'DoubleParse' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.726:Project 'IntParse' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.726:Project 'ListViewItem' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.727:Project 'Stack' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.728:Project 'StatNullCheck' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.729:Project 'Strings_Char' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.730:Project 'VisualBasic_Collection' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.731:Project 'WinForms_OpenForms' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.732:Project 'NullProperty' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.732:Project 'NullVariable' configuration 'Debug|Any CPU'
-2019/02/04 14:29:04.907:Analysis log 'C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\.klocwork\StabilityExample\cs.kwlp\csanalysis.log'
-2019/02/04 14:29:04.908:Starting 'C:\Users\SA068411\AppData\Local\Microsoft\VisualStudio\14.0\Klocwork\AnalysisTools.12.3.0.819\exec\ix86-pc-win32\kwcs.exe "--license-host" SdsKwLicCrt01 "--license-port" 27000 "--xml" C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\.klocwork\StabilityExample\cs.kwlp\problems.xml "--build-spec" C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\.klocwork\StabilityExample\cs.kwlp\csbuildspec.txt "--lang" en "--error-config" C:\Users\SA068411\AppData\Local\Temp\Klocwork\4ykusurl.ks1\ya0qh4c1.2zmbuiltin_csharp_plugins.xml "--error-config" C:\Users\SA068411\AppData\Local\Temp\Klocwork\4ykusurl.ks1\143rrr3z.ekhuserprofile.pconf.xml'
-2019/02/04 14:29:11.760:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullVariable\Program.cs
-2019/02/04 14:29:11.762:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullVariable\Properties\AssemblyInfo.cs
-2019/02/04 14:29:11.919:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullProperty\Program.cs
-2019/02/04 14:29:11.921:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullProperty\Properties\AssemblyInfo.cs
-2019/02/04 14:29:11.923:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullProperty\Properties\Settings.Designer.cs
-2019/02/04 14:29:12.097:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Form1.cs
-2019/02/04 14:29:12.100:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Form1.Designer.cs
-2019/02/04 14:29:12.104:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Program.cs
-2019/02/04 14:29:12.105:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Properties\AssemblyInfo.cs
-2019/02/04 14:29:12.106:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Properties\Resources.Designer.cs
-2019/02/04 14:29:12.108:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\Properties\Settings.Designer.cs
-2019/02/04 14:29:12.406:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\VisualBasic_Collection\VisualBasic_Collection\Program.cs
-2019/02/04 14:29:12.408:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\VisualBasic_Collection\VisualBasic_Collection\Properties\AssemblyInfo.cs
-2019/02/04 14:29:12.554:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\Form1.cs
-2019/02/04 14:29:12.556:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\Form1.Designer.cs
-2019/02/04 14:29:12.559:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\Program.cs
-2019/02/04 14:29:12.560:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\Properties\AssemblyInfo.cs
-2019/02/04 14:29:12.561:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\Properties\Resources.Designer.cs
-2019/02/04 14:29:12.564:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\Properties\Settings.Designer.cs
-2019/02/04 14:29:12.721:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\Form1.cs
-2019/02/04 14:29:12.722:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\Form1.Designer.cs
-2019/02/04 14:29:12.724:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\Program.cs
-2019/02/04 14:29:12.725:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\Properties\AssemblyInfo.cs
-2019/02/04 14:29:12.726:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\Properties\Resources.Designer.cs
-2019/02/04 14:29:12.728:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\Properties\Settings.Designer.cs
-2019/02/04 14:29:12.730:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StatNullCheck\StatNullCheck\SomeClass.cs
-2019/02/04 14:29:12.884:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Form1.cs
-2019/02/04 14:29:12.885:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Form1.Designer.cs
-2019/02/04 14:29:12.888:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Program.cs
-2019/02/04 14:29:12.890:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Properties\AssemblyInfo.cs
-2019/02/04 14:29:12.891:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Properties\Resources.Designer.cs
-2019/02/04 14:29:12.894:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Properties\Settings.Designer.cs
-2019/02/04 14:29:13.102:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Form1.cs
-2019/02/04 14:29:13.104:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Form1.Designer.cs
-2019/02/04 14:29:13.115:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Program.cs
-2019/02/04 14:29:13.116:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Properties\AssemblyInfo.cs
-2019/02/04 14:29:13.117:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Properties\Resources.Designer.cs
-2019/02/04 14:29:13.117:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Properties\Settings.Designer.cs
-2019/02/04 14:29:13.349:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\Form1.cs
-2019/02/04 14:29:13.350:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\Form1.Designer.cs
-2019/02/04 14:29:13.353:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\Program.cs
-2019/02/04 14:29:13.354:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\Properties\AssemblyInfo.cs
-2019/02/04 14:29:13.355:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\Properties\Resources.Designer.cs
-2019/02/04 14:29:13.356:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\Properties\Settings.Designer.cs
-2019/02/04 14:29:13.522:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\Form1.cs
-2019/02/04 14:29:13.524:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\Form1.Designer.cs
-2019/02/04 14:29:13.527:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\Program.cs
-2019/02/04 14:29:13.529:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\Properties\AssemblyInfo.cs
-2019/02/04 14:29:13.530:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\Properties\Resources.Designer.cs
-2019/02/04 14:29:13.533:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\Properties\Settings.Designer.cs
-2019/02/04 14:29:13.738:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\Form1.cs
-2019/02/04 14:29:13.741:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\Form1.Designer.cs
-2019/02/04 14:29:13.747:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\Program.cs
-2019/02/04 14:29:13.749:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\Properties\AssemblyInfo.cs
-2019/02/04 14:29:13.750:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\Properties\Resources.Designer.cs
-2019/02/04 14:29:13.752:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\DoEvents_Problems\DoEvents_Problems\Properties\Settings.Designer.cs
-2019/02/04 14:29:13.976:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\Div_by_zero\Form1.cs
-2019/02/04 14:29:13.978:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\Div_by_zero\Form1.Designer.cs
-2019/02/04 14:29:13.980:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\Div_by_zero\Program.cs
-2019/02/04 14:29:13.981:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\Div_by_zero\Properties\AssemblyInfo.cs
-2019/02/04 14:29:13.983:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\Div_by_zero\Properties\Resources.Designer.cs
-2019/02/04 14:29:13.984:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\Div_by_zero\Properties\Settings.Designer.cs
-2019/02/04 14:29:14.148:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\Form1.cs
-2019/02/04 14:29:14.150:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\Form1.Designer.cs
-2019/02/04 14:29:14.153:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\Program.cs
-2019/02/04 14:29:14.154:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\Properties\AssemblyInfo.cs
-2019/02/04 14:29:14.155:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\Properties\Resources.Designer.cs
-2019/02/04 14:29:14.157:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\ComboBox_SelectItem\ComboBox_SelectItem\Properties\Settings.Designer.cs
-2019/02/04 14:29:14.336:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Array_Out_Of_Bonds\Array_Out_Of_Bonds\Form1.cs
-2019/02/04 14:29:14.341:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Array_Out_Of_Bonds\Array_Out_Of_Bonds\Form1.Designer.cs
-2019/02/04 14:29:14.345:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Array_Out_Of_Bonds\Array_Out_Of_Bonds\Program.cs
-2019/02/04 14:29:14.348:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Array_Out_Of_Bonds\Array_Out_Of_Bonds\Properties\AssemblyInfo.cs
-2019/02/04 14:29:14.350:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Array_Out_Of_Bonds\Array_Out_Of_Bonds\Properties\Resources.Designer.cs
-2019/02/04 14:29:14.354:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\Array_Out_Of_Bonds\Array_Out_Of_Bonds\Properties\Settings.Designer.cs
-2019/02/04 14:29:14.593:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\Form1.cs
-2019/02/04 14:29:14.596:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\Form1.Designer.cs
-2019/02/04 14:29:14.599:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\Program.cs
-2019/02/04 14:29:14.600:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\Properties\AssemblyInfo.cs
-2019/02/04 14:29:14.601:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\Properties\Resources.Designer.cs
-2019/02/04 14:29:14.603:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\Properties\Settings.Designer.cs
-2019/02/04 14:29:14.859:Analysis finished with exit code 0
-2019/02/04 14:29:14.860:Parsing result
-2019/02/04 14:29:14.923:Analysis completed
-2019/02/04 17:19:37.979:Analysis interrupted
-2019/02/04 17:54:04.448:Analysis interrupted
+2019/04/01 19:50:16.114:Klocwork 12.3.0.819 for Visual Studio 14.0 Professional
+2019/04/01 19:50:16.115:Installation directory 'C:\Users\SA068411\AppData\Local\Microsoft\VisualStudio\14.0\Klocwork\AnalysisTools.12.3.0.819'
+2019/04/01 19:50:16.129:Solution configuration 'Debug'
+2019/04/01 19:50:16.130:Running analysis
+2019/04/01 19:50:16.174:Project 'OnExit' configuration 'Debug|Any CPU'
+2019/04/01 19:50:16.214:Analysis log 'C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\.klocwork\StabilityExample\cs.kwlp\csanalysis.log'
+2019/04/01 19:50:16.215:Starting 'C:\Users\SA068411\AppData\Local\Microsoft\VisualStudio\14.0\Klocwork\AnalysisTools.12.3.0.819\exec\ix86-pc-win32\kwcs.exe "--license-host" SdsKwLicCrt01 "--license-port" 27000 "--xml" C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\.klocwork\StabilityExample\cs.kwlp\problems.xml "--build-spec" C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\.klocwork\StabilityExample\cs.kwlp\csbuildspec.txt "--lang" en "--error-config" C:\Users\SA068411\AppData\Local\Temp\Klocwork\rematy0j.uwh\ickn02h1.ianbuiltin_csharp_plugins.xml "--error-config" C:\Users\SA068411\AppData\Local\Temp\Klocwork\rematy0j.uwh\r5zyl2zg.5zxuserprofile.pconf.xml'
+2019/04/01 19:50:27.211:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\Form1.cs
+2019/04/01 19:50:27.214:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\Form1.Designer.cs
+2019/04/01 19:50:27.216:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\LoginForm.cs
+2019/04/01 19:50:27.218:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\LoginForm.Designer.cs
+2019/04/01 19:50:27.226:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\Program.cs
+2019/04/01 19:50:27.228:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\Properties\AssemblyInfo.cs
+2019/04/01 19:50:27.229:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\Properties\Resources.Designer.cs
+2019/04/01 19:50:27.231:Output: Compiling C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\Properties\Settings.Designer.cs
+2019/04/01 19:50:27.640:Analysis finished with exit code 0
+2019/04/01 19:50:27.641:Parsing result
+2019/04/01 19:50:27.653:Analysis completed
+2019/04/01 20:45:55.511:Analysis interrupted
+2019/04/04 17:23:27.979:Analysis interrupted

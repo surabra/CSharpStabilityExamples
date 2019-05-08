@@ -81,5 +81,11 @@ namespace Array_Out_Of_Bonds
             MessageBox.Show(val.ToString());
             
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+           string access= AccessArray(8);
+           MessageBox.Show(access);
+        }
     }
 }

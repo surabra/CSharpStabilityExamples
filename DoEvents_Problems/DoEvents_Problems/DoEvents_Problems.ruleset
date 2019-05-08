@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RuleSet Name="Rules for DoEvents_Problems" Description="Code analysis rules for DoEvents_Problems.csproj." ToolsVersion="14.0">
+  <Include Path="..\..\stabilityexample\.sonarlint\stability_examples_fixcsharp.ruleset" Action="Default" />
   <Rules AnalyzerId="Microsoft.Analyzers.ManagedCodeAnalysis" RuleNamespace="Microsoft.Rules.Managed">
     <Rule Id="CA1000" Action="Warning" />
     <Rule Id="CA1001" Action="Warning" />

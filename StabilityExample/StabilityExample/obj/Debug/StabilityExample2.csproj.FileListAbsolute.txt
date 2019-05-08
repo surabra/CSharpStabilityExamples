@@ -1,0 +1,9 @@
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\bin\Debug\StabilityExample.exe.config
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\bin\Debug\StabilityExample.exe
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\bin\Debug\StabilityExample.pdb
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample2.csprojResolveAssemblyReference.cache
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample.Form1.resources
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample.Properties.Resources.resources
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample2.csproj.GenerateResource.Cache
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample.exe
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample.pdb

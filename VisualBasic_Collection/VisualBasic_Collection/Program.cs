@@ -6,6 +6,11 @@ namespace VisualBasic_Collection
     class Program
     {
         private static Collection collection = new Collection();
+
+        protected Program()
+        {
+            /// This is intentionally blank
+        }
         static void Main(string[] args)
         {
             int index = 0;

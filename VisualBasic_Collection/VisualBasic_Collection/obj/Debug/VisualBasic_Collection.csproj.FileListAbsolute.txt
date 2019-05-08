@@ -1,0 +1,5 @@
+C:\SVN\C16440\CSharpStabilityExamples\VisualBasic_Collection\VisualBasic_Collection\bin\Debug\VisualBasic_Collection.exe.config
+C:\SVN\C16440\CSharpStabilityExamples\VisualBasic_Collection\VisualBasic_Collection\bin\Debug\VisualBasic_Collection.exe
+C:\SVN\C16440\CSharpStabilityExamples\VisualBasic_Collection\VisualBasic_Collection\bin\Debug\VisualBasic_Collection.pdb
+C:\SVN\C16440\CSharpStabilityExamples\VisualBasic_Collection\VisualBasic_Collection\obj\Debug\VisualBasic_Collection.exe
+C:\SVN\C16440\CSharpStabilityExamples\VisualBasic_Collection\VisualBasic_Collection\obj\Debug\VisualBasic_Collection.pdb

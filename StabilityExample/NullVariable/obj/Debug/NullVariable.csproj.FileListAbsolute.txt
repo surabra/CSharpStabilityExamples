@@ -1,0 +1,5 @@
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullVariable\bin\Debug\NullVariable.exe.config
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullVariable\bin\Debug\NullVariable.exe
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullVariable\bin\Debug\NullVariable.pdb
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullVariable\obj\Debug\NullVariable.exe
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\NullVariable\obj\Debug\NullVariable.pdb

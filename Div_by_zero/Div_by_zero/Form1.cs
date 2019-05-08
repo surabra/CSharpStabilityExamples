@@ -48,8 +48,8 @@ namespace Div_by_zero
 
         private void button2_Click(object sender, EventArgs e)
         {
-            int numer = 0;
-            int denom = 0;
+            int numer = 10;
+            int denom = 10;
 
             int.TryParse(textNumerator.Text, out numer); 
             int.TryParse(textDenom.Text, out denom);
@@ -64,6 +64,10 @@ namespace Div_by_zero
             {
                 MessageBox.Show($"Impossible. Denominator is {textDenom.Text}");
             }
+
+            double result = Divide(denom, numer);
+
+            MessageBox.Show($"Result after proper divide = {result}");
         }
 
         private void button3_Click(object sender, EventArgs e)

@@ -4,13 +4,15 @@ namespace NullVariable
 {
     class Program
     {
-        private static String sName = null;
-
+        
         static void Main(string[] args)
         {
             MyClass myClass = new MyClass();
             var check =myClass.Property.test(); // Issue NullReferenceException
+            Console.WriteLine($"check = {check}");
             var mae = myClass.GetProgram().test(); // Issue NullReferenceException
+
+            Console.WriteLine($"mae = {mae}");
 
         }
 

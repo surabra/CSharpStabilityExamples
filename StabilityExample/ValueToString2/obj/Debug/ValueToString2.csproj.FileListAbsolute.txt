@@ -1,0 +1,10 @@
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\ValueToString2\bin\Debug\ValueToString2.exe.config
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\ValueToString2\bin\Debug\ValueToString2.exe
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\ValueToString2\bin\Debug\ValueToString2.pdb
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\ValueToString2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\ValueToString2\obj\Debug\ValueToString2.csprojResolveAssemblyReference.cache
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\ValueToString2\obj\Debug\ValueToString2.Form1.resources
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\ValueToString2\obj\Debug\ValueToString2.Properties.Resources.resources
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\ValueToString2\obj\Debug\ValueToString2.csproj.GenerateResource.Cache
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\ValueToString2\obj\Debug\ValueToString2.exe
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\ValueToString2\obj\Debug\ValueToString2.pdb

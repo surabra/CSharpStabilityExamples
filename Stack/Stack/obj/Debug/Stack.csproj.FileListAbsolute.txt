@@ -1,0 +1,8 @@
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\bin\Debug\Stack.exe.config
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\bin\Debug\Stack.exe
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\bin\Debug\Stack.pdb
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\obj\Debug\Stack.Form1.resources
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\obj\Debug\Stack.Properties.Resources.resources
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\obj\Debug\Stack.csproj.GenerateResource.Cache
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\obj\Debug\Stack.exe
+C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\obj\Debug\Stack.pdb

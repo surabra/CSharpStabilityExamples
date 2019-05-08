@@ -1,0 +1,9 @@
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\bin\Debug\OnExit.exe.config
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\bin\Debug\OnExit.exe
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\bin\Debug\OnExit.pdb
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.Form1.resources
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.LoginForm.resources
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.Properties.Resources.resources
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.csproj.GenerateResource.Cache
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.exe
+C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.pdb
