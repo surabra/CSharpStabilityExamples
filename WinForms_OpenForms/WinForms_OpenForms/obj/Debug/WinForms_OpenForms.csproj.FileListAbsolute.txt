@@ -6,3 +6,12 @@ C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\obj\
 C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\obj\Debug\WinForms_OpenForms.csproj.GenerateResource.Cache
 C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\obj\Debug\WinForms_OpenForms.exe
 C:\SVN\C16440\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\obj\Debug\WinForms_OpenForms.pdb
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\bin\Debug\WinForms_OpenForms.exe.config
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\bin\Debug\WinForms_OpenForms.exe
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\bin\Debug\WinForms_OpenForms.pdb
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\obj\Debug\WinForms_OpenForms.Form1.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\obj\Debug\WinForms_OpenForms.Properties.Resources.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\obj\Debug\WinForms_OpenForms.csproj.GenerateResource.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\obj\Debug\WinForms_OpenForms.csproj.CoreCompileInputs.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\obj\Debug\WinForms_OpenForms.exe
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\WinForms_OpenForms\WinForms_OpenForms\obj\Debug\WinForms_OpenForms.pdb

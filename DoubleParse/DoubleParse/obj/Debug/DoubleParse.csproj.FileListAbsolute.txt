@@ -6,3 +6,12 @@ C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoublePa
 C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.csproj.GenerateResource.Cache
 C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.exe
 C:\SVN\C16440\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.pdb
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\DoubleParse\DoubleParse\bin\Debug\DoubleParse.exe.config
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\DoubleParse\DoubleParse\bin\Debug\DoubleParse.exe
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\DoubleParse\DoubleParse\bin\Debug\DoubleParse.pdb
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.Form1.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.Properties.Resources.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.csproj.GenerateResource.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.csproj.CoreCompileInputs.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.exe
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\DoubleParse\DoubleParse\obj\Debug\DoubleParse.pdb

@@ -7,3 +7,13 @@ C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.P
 C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.csproj.GenerateResource.Cache
 C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.exe
 C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.pdb
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\OnExit\bin\Debug\OnExit.exe.config
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\OnExit\bin\Debug\OnExit.exe
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\OnExit\bin\Debug\OnExit.pdb
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.Form1.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.LoginForm.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.Properties.Resources.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.csproj.GenerateResource.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.csproj.CoreCompileInputs.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.exe
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\OnExit\obj\Debug\OnExit.pdb

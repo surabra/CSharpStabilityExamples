@@ -6,3 +6,12 @@ C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\obj\Debug\IntParse.Prope
 C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\obj\Debug\IntParse.csproj.GenerateResource.Cache
 C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\obj\Debug\IntParse.exe
 C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\obj\Debug\IntParse.pdb
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\IntParse\IntParse\bin\Debug\IntParse.exe.config
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\IntParse\IntParse\bin\Debug\IntParse.exe
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\IntParse\IntParse\bin\Debug\IntParse.pdb
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\IntParse\IntParse\obj\Debug\IntParse.Form1.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\IntParse\IntParse\obj\Debug\IntParse.Properties.Resources.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\IntParse\IntParse\obj\Debug\IntParse.csproj.GenerateResource.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\IntParse\IntParse\obj\Debug\IntParse.csproj.CoreCompileInputs.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\IntParse\IntParse\obj\Debug\IntParse.exe
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\IntParse\IntParse\obj\Debug\IntParse.pdb

@@ -7,3 +7,12 @@ C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\String
 C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.exe
 C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.pdb
 C:\SVN\C16440\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.csprojResolveAssemblyReference.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\Strings_Char\Strings_Char\bin\Debug\Strings_Char.exe.config
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\Strings_Char\Strings_Char\bin\Debug\Strings_Char.exe
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\Strings_Char\Strings_Char\bin\Debug\Strings_Char.pdb
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.Form1.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.Properties.Resources.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.csproj.GenerateResource.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.csproj.CoreCompileInputs.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.exe
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\Strings_Char\Strings_Char\obj\Debug\Strings_Char.pdb

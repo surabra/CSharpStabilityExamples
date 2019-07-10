@@ -7,3 +7,12 @@ C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debu
 C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample2.csproj.GenerateResource.Cache
 C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample.exe
 C:\SVN\C16440\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample.pdb
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\StabilityExample\bin\Debug\StabilityExample.exe.config
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\StabilityExample\bin\Debug\StabilityExample.exe
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\StabilityExample\bin\Debug\StabilityExample.pdb
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample.Form1.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample.Properties.Resources.resources
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample2.csproj.GenerateResource.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample2.csproj.CoreCompileInputs.cache
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample.exe
+C:\AS047195\SVN\Learngit\CSharpStabilityExamples\StabilityExample\StabilityExample\obj\Debug\StabilityExample.pdb
