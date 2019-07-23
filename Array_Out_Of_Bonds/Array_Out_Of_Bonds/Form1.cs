@@ -15,7 +15,7 @@ namespace Array_Out_Of_Bonds
             strings = new string[2] {"0", "1"};
 
 
-            list = new ArrayList() {"one", "two"};
+            list = new ArrayList() {"one", "two", "three"};
 
             
 
