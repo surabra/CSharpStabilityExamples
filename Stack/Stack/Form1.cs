@@ -8,7 +8,7 @@ namespace Stack
     public partial class Form1 : Form
     {
         System.Collections.Generic.Stack<int> stackCollection;
-        private int _last;
+        public int _last;
 
         public Form1()
         {

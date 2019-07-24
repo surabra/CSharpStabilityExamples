@@ -15,7 +15,7 @@ namespace OnExit
     {
         public LoginForm_Closed log_closed;
 
-        private LoginForm _LoginForm;
+        public LoginForm _LoginForm;
 
         public LoginForm logForm
         {
