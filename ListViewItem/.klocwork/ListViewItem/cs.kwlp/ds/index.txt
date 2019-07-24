@@ -1,6 +1,0 @@
-C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Form1.cs;C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\.klocwork\ListViewItem\cs.kwlp\ds\1\5y5iq1ie.gsz;1;0;False;D584D05106836FA4B4CD067429542462902B420D;False
-C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Form1.Designer.cs;C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\.klocwork\ListViewItem\cs.kwlp\ds\2\tbhiire1.qub;2;0;False;CA527896D3EE6E818C840BCBF097BF8C7C316E66;False
-C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Program.cs;;3;0;False;C18B12F731530F255A04D5B50B9944BC7068870C;False
-C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Properties\AssemblyInfo.cs;;4;0;False;FABDC038336E19FFD510FDCFC8A7D20B995FD6C1;False
-C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Properties\Resources.Designer.cs;;5;0;False;BAB450D206F84D57A7E80512CCE4C7141BFEFC34;False
-C:\SVN\C16440\CSharpStabilityExamples\ListViewItem\ListViewItem\Properties\Settings.Designer.cs;;6;0;False;3A029BEC9101C84A6816CC5A0A0AA6C2B1EA04A5;False

@@ -1,1 +1,0 @@
-C:\SVN\C16440\CSharpStabilityExamples\Stack\Stack\Form1.resx;C:\SVN\C16440\CSharpStabilityExamples\Stack\.klocwork\Stack\cpp.kwlp\ds\1\hijqtt5k.30d;1;0;False;31FB76E5D9BABE97A11FEA041081F96CE426107A;False

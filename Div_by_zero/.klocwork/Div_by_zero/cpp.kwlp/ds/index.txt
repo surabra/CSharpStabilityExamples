@@ -1,1 +1,0 @@
-C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\Div_by_zero\Form1.resx;C:\SVN\C16440\CSharpStabilityExamples\Div_by_zero\.klocwork\Div_by_zero\cpp.kwlp\ds\1\jm1tdhlo.hkh;1;0;False;31FB76E5D9BABE97A11FEA041081F96CE426107A;False

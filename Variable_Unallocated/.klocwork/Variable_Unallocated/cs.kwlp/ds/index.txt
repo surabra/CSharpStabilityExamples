@@ -1,6 +1,0 @@
-C:\SVN\C16440\CSharpStabilityExamples\Variable_Unallocated\Form1.cs;C:\SVN\C16440\CSharpStabilityExamples\Variable_Unallocated\.klocwork\Variable_Unallocated\cs.kwlp\ds\1\whm5x3ak.0q1;1;0;False;6203063799C6DF8604DE0894CC8FD1C78E7C1196;False
-C:\SVN\C16440\CSharpStabilityExamples\Variable_Unallocated\Form1.Designer.cs;;2;0;False;B9FDB61AE150DBBEC63FBE214491675709297D16;False
-C:\SVN\C16440\CSharpStabilityExamples\Variable_Unallocated\Program.cs;;3;0;False;3AE4C9A5C767F2A8B401CFBE03487BA554B44342;False
-C:\SVN\C16440\CSharpStabilityExamples\Variable_Unallocated\Properties\AssemblyInfo.cs;;4;0;False;0EF73681DF00156C4C5B0E8F5386F8DC76201EB2;False
-C:\SVN\C16440\CSharpStabilityExamples\Variable_Unallocated\Properties\Resources.Designer.cs;;5;0;False;7832665325057C75C522AF79749DDBB69B558703;False
-C:\SVN\C16440\CSharpStabilityExamples\Variable_Unallocated\Properties\Settings.Designer.cs;;6;0;False;82A19FB5FA6C6C127F3B6F0BF16F104CF1AAE39B;False

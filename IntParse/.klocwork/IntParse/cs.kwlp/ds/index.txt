@@ -1,6 +1,0 @@
-C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\Form1.cs;C:\SVN\C16440\CSharpStabilityExamples\IntParse\.klocwork\IntParse\cs.kwlp\ds\1\x5oh3jqz.3cx;1;0;False;48EAA5B39A522312E5394694954661AC2D97E571;False
-C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\Form1.Designer.cs;;2;0;False;C61644C87820D7DDBF307FB5C1EDE2D8CC50ACB8;False
-C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\Program.cs;;3;0;False;4246D28CDC3D008B8972B0D4E02EDC9E85A67C91;False
-C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\Properties\AssemblyInfo.cs;;4;0;False;3D2B8D5529B4B1B6E57471C6C171DB6598A4FD9E;False
-C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\Properties\Resources.Designer.cs;;5;0;False;E1221A70A9D36EAD16F9F2E7C79F78ECF6F908F4;False
-C:\SVN\C16440\CSharpStabilityExamples\IntParse\IntParse\Properties\Settings.Designer.cs;;6;0;False;678AE64A9037D4B2590B98E8401B8D4F26BA467F;False
