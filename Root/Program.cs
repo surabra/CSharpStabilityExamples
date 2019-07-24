@@ -11,6 +11,7 @@ namespace Root
     {
         static void Main(string[] args)
         {
+			int i = 100;
             Console.WriteLine(new Level1().GetValue(true).ToString());
         }
     }
